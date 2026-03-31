@@ -7,3 +7,5 @@ langchain_openai
 pypdf
 sentence-transformers
 langchain-huggingface
+langchain-mistralai
+python-dotenv
